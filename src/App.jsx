@@ -82,7 +82,7 @@ const App = () => {
           <div>
             <button
               type="submit"
-              className="w-full bg-gradient-to-r from-green-400 to-teal-500 text-white py-2 px-4 rounded-md hover:from-green-500 hover:to-teal-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-opacity-50 transition duration-300 transform hover:scale-105"
+              className="w-full bg-gradient-to-r from-orange-400 to-pink-500 text-white py-2 px-4 rounded-md hover:from-orange-500 hover:to-pink-600 focus:outline-none focus:ring-2 focus:ring-pink-500 focus:ring-opacity-50 transition duration-300 transform hover:scale-105"
             >
               Send Message
             </button>
